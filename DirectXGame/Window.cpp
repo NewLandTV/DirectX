@@ -1,3 +1,5 @@
+// Creation Date: 2022.09.25. Sun, 08:35:41
+// Modified Date: 2022.09.25. Sun, 10:26:38
 #include "Window.h"
 
 Window* window = nullptr;
